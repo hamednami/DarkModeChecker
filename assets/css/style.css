@@ -1,0 +1,16 @@
+/* https://github.com/hamednami | Hamednami | hamednami.ir */
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+body {
+    height: 100%;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-size: 8rem;
+}
+
